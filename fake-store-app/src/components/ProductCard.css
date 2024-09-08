@@ -1,0 +1,12 @@
+.product-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .product-card img {
+    max-width: 100%;
+    height: auto;
+  }
+  
